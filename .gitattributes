@@ -1,0 +1,2 @@
+vosk-model-en-us-0.22/am/final.mdl filter=lfs diff=lfs merge=lfs -text
+vosk-model-en-us-0.22/graph/HCLr.fst filter=lfs diff=lfs merge=lfs -text
